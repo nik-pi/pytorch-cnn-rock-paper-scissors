@@ -304,7 +304,7 @@ pycurl==7.44.1
 pydantic==1.8.2
 pydeck==0.7.1
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1621600989141/work
-pyee==9.1.0
+pyee==9.0.0
 pyerfa @ file:///opt/concourse/worker/volumes/live/fef1f482-1dec-42b9-4439-b8031d24ea69/volume/pyerfa_1621560786048/work
 pyflakes @ file:///tmp/build/80754af9/pyflakes_1617200973297/work
 Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
