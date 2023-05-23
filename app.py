@@ -52,5 +52,5 @@ def callback(frame):
     return av.VideoFrame.from_ndarray(frame, format="bgr24")
 
 
-webrtc_streamer(key="example", mode=WebRtcMode.SENDRECV,)
+webrtc_streamer(key="example")
 # webrtc_streamer(key="example", video_frame_callback=callback)
